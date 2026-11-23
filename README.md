@@ -1,6 +1,4 @@
 # first\_project
 
-main GitHub seekh raha hoon 
-
-
+main GitHub seekh raha hoon. 
 
